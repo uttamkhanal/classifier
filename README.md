@@ -1,4 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 PERCEPTRON ANIMATION
 
 Implementation of perceptron algorithm
 
